@@ -1,12 +1,12 @@
 # **DAIKIN PLANT INDUSTRIAL VISIT REPORT**  
 
-## **#SUBMITTED_BY**  
+## **SUBMITTED_BY**  
 **Name:** Khushi Kalra  
 **Roll No:** 055021  
 
 ---
 
-## **#PROJECT_OVERVIEW**  
+## **PROJECT_OVERVIEW**  
 This project documents an **industrial visit** to the **Daikin Manufacturing Plant** in **Neemrana, Rajasthan**.  
 The visit aimed to gain **practical exposure** to the operations of one of the world's leading air conditioning manufacturers.  
 Key focus areas included:  
@@ -18,7 +18,7 @@ Key focus areas included:
 
 ---
 
-## **#OBJECTIVES_OF_THE_VISIT**  
+## **OBJECTIVES_OF_THE_VISIT**  
 - Understanding **Daikin’s production line** and **assembly process**.  
 - Observing the **automation and robotics** used in manufacturing.  
 - Learning about **quality control measures** and product testing.  
@@ -27,7 +27,7 @@ Key focus areas included:
 
 ---
 
-## **#KEY_OBSERVATIONS**  
+## **KEY_OBSERVATIONS**  
 1. **Manufacturing & Assembly**  
    - The plant follows a **highly automated assembly process** with **minimal manual intervention**.  
    - Use of **robotic arms and AI-driven technology** to improve efficiency.  
@@ -46,13 +46,13 @@ Key focus areas included:
 
 ---
 
-## **#TOOLS_USED**  
+## **TOOLS_USED**  
 - **Microsoft PowerPoint** – To present observations and findings.  
 - **Lucidchart** – To create process diagrams for better understanding.  
 
 ---
 
-## **#HOW_TO_USE_THIS_REPORT**  
+## **HOW_TO_USE_THIS_REPORT**  
 - **Refer to the key observations** to understand Daikin’s industrial operations.  
 - **Use the insights** for case studies, research, or future learning on **manufacturing efficiency and automation**.  
 - **Analyze the sustainability efforts** adopted by Daikin for an **environmentally responsible** production process.  
